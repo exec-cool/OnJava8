@@ -10,7 +10,7 @@
 
 - 目录阅读：[进入](https://github.com/exec-cool/OnJava8/blob/master/SUMMARY.md)
 
-- 网站 完整阅读：[进入](https://java8.exec.cool/)
+- 网站 完整阅读：[进入](https://www.exec.cool/onjava8/)
 
 ## 翻译进度
 
