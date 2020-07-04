@@ -113,4 +113,4 @@
 
 ## 联系方式
 
-- E-mail : <lingcoder@gmail.com>
+- E-mail : <exec_cool@sina.com>
