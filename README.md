@@ -10,9 +10,7 @@
 
 - 目录阅读：[进入](https://github.com/exec-cool/OnJava8/blob/master/SUMMARY.md)
 
-- GitHub Pages 完整阅读：[进入](https://lingcoder.github.io/OnJava8/)
-
-- Gitee Pages 完整阅读：[进入](https://lingcoder.gitee.io/onjava8/)
+- 网站 完整阅读：[进入](https://java8.exec.cool/)
 
 ## 翻译进度
 
